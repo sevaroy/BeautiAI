@@ -1,0 +1,54 @@
+# Python相关
+__pycache__/
+*.pyc
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 环境相关
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# 日志文件
+*.log
+logs/
+app.log
+
+# 数据文件（根据需要可以取消注释）
+# data_csv/
+# json/
+
+# IDE相关
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# 其他
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+.env
